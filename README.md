@@ -18,4 +18,5 @@ Link Video Largo (Se explica de manera mas detallada la construccion del framewo
 https://udlaec-my.sharepoint.com/:v:/r/personal/andres_tayupanta_udla_edu_ec/Documents/Recordings/Llamada%20con%20(Estudiante)%20Emilie%20Camila%20Morales%20Real-20220206_154513-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=vFGbbq
 
 ##Deploy
+
 https://game-debt.herokuapp.com/
