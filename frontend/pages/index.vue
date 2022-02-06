@@ -25,9 +25,6 @@ export default {
     this.fetch()
   },
   methods: {
-
-
-
     async fetch() {
     try {
       let games = await this.$axios.$get("http://localhost:5000/api/game", {

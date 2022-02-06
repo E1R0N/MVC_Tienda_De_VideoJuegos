@@ -10,7 +10,7 @@
 
 
 
-      <v-app-bar-title to= "/">Tineda de Juegos</v-app-bar-title>
+      <v-app-bar-title to= "/">Tienda de Juegos</v-app-bar-title>
 
       <v-spacer></v-spacer>
 
