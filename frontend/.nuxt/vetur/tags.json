@@ -1,0 +1,11 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Navigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "Table": {
+    "description": "Auto imported from components/Table.vue"
+  }
+}
