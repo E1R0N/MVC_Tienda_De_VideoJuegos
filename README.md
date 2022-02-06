@@ -1,9 +1,12 @@
 # MVC_Tienda_De_VideoJuegos
+
 ## Mongo DB || Express Js || Node Js || Nuxt 
+
 Esta aplicación fue creada con fines académicos. Es un ejercicio donde se utilizaron varias tecnologías web,\
 el objetivo es crear una aplicación que calcule las deudas de un usuario al no devolver un juego alquilado en la fecha estipulada.
 
 ## Links para instalacion de MENN
+
 NUXT: https://nuxtjs.org/ \
 EXPRESS: https://expressjs.com/es/ \
 Node: https://nodejs.org/es/ \
