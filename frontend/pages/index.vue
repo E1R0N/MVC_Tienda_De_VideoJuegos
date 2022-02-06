@@ -11,11 +11,11 @@ export default {
       headers: [
         { text: "User", value: "name" },
         { text: "Game", value: "game" },
-        { text: "Game", value: "state" },
-        { text: "Game", value: "initDate" },
-        { text: "Game", value: "fDate" },
-        { text: "Game", value: "returnDate" },
-        { text: "Deuda", value: "debt"}
+        { text: "State", value: "state" },
+        { text: "Initial Date", value: "initDate" },
+        { text: "End Date", value: "fDate" },
+        { text: "Return date", value: "returnDate" },
+        { text: "Debt", value: "debt"}
       ],
       games: [],
       title: "Deudas",

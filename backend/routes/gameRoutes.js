@@ -40,9 +40,13 @@ router.get('/game', async (req, res) => {
             gameDB[i].initDate = new Date(gameDB[i].initDate).toLocaleDateString(undefined, options)
             gameDB[i].fDate = new Date(gameDB[i].fDate).toLocaleDateString(undefined, options)
             gameDB[i].returnDate = new Date(gameDB[i].returnDate).toLocaleDateString(undefined, options)
-            if(daysdif<0){
-                 gameDB[i].debt=val*(daysdif*-1)
-             }
+            if(gameDB[i].returnDate<gameDB[i].fDate) {
+                gameDB[i].debt=0
+            }else{
+                if(daysdif<0){
+                    gameDB[i].debt=val*(daysdif*-1)
+                }
+            }
             console.log(gameDB[i].debt)
         }
         res.json(gameDB);

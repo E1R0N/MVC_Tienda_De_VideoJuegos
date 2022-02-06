@@ -2,29 +2,15 @@
   {
     "name": "login",
     "path": "/login",
-    "component": "C:\\\\Users\\\\matta\\\\OneDrive\\\\Documentos\\\\GitHub\\\\MVC_Tienda_de_Juegos\\\\frontend\\\\pages\\\\login\\\\index.vue",
+    "component": "C:\\\\Users\\\\matta\\\\OneDrive\\\\Documentos\\\\GitHub\\\\MVC_Tienda_De_VideoJuegos\\\\frontend\\\\pages\\\\login\\\\index.vue",
     "chunkName": "pages/login/index",
-    "_name": "_4e2677ab"
-  },
-  {
-    "name": "profile",
-    "path": "/profile",
-    "component": "C:\\\\Users\\\\matta\\\\OneDrive\\\\Documentos\\\\GitHub\\\\MVC_Tienda_de_Juegos\\\\frontend\\\\pages\\\\profile.vue",
-    "chunkName": "pages/profile",
-    "_name": "_7bd79db7"
-  },
-  {
-    "name": "serie",
-    "path": "/serie",
-    "component": "C:\\\\Users\\\\matta\\\\OneDrive\\\\Documentos\\\\GitHub\\\\MVC_Tienda_de_Juegos\\\\frontend\\\\pages\\\\serie.vue",
-    "chunkName": "pages/serie",
-    "_name": "_d66bacec"
+    "_name": "_8042a944"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\matta\\\\OneDrive\\\\Documentos\\\\GitHub\\\\MVC_Tienda_de_Juegos\\\\frontend\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\matta\\\\OneDrive\\\\Documentos\\\\GitHub\\\\MVC_Tienda_De_VideoJuegos\\\\frontend\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_f2acf440"
+    "_name": "_3f3074e6"
   }
 ]
